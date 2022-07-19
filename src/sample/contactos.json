@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nombre": "Angel Marte",
+        "numero": "809-555-1111",
+        "email": "Angelm@email.com"
+    },
+    {
+        "id": 1,
+        "nombre": "Angel Luis",
+        "numero": "829-444-1111",
+        "email": "JS@hotmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Kiara Marte",
+        "numero": "809-999-1234",
+        "email": "Nino@gamil.com"
+    }
+]
